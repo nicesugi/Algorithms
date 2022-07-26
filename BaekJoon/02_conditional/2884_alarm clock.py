@@ -27,8 +27,8 @@ elif H <= 23:
     else:
         print(H-1, M+15)
 
-
-# a, b = map(int, input().split())
-# c = 60+5
-# 65//60%24, 65%60
-# print(c//60%24, c%60)
+# 30840KB 68ms 90byte
+a, b = map(int, input().split())
+c = 60+5
+65//60%24, 65%60
+print(c//60%24, c%60)
