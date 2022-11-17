@@ -6,6 +6,10 @@ def solution1(array: list) -> list:
     return array[length]
 
 
+# or lambda form
+solution1 = lambda array: sorted(array)[len(array)//2]
+
+
 # array를 나눈 값이 0이 아닐경우, 0일 경우의 if문 작성
 def solution2(array: list) -> list:
     array.sort()
