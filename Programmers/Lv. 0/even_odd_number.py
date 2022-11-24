@@ -1,4 +1,4 @@
-def solution1(num_list):
+def solution1(num_list: list) -> list:
     even = []
     odd = []
     for i in num_list:
@@ -10,7 +10,7 @@ def solution1(num_list):
     return [len(even), len(odd)]
 
 
-def solution2(num_list):
+def solution2(num_list: list) -> list:
     answer = [0, 0]
     for i in num_list:
         if i % 2 == 0:
@@ -21,7 +21,7 @@ def solution2(num_list):
     return answer
 
 
-def solution3(num_list):
+def solution3(num_list: list) -> list:
     answer = [0, 0]
     for i in num_list:
         answer[i % 2] += 1
