@@ -133,8 +133,36 @@ https://github.com/nicesugi/Algorithms/blob/ad87fe41f2b8a4c1fb3f48d5c3aa6e3c9a7e
 </details>
 
 <details>
-  <summary>&nbsp;&nbsp; 배열 내 원소 순서 뒤집기</summary>
+  <summary>&nbsp;&nbsp; 배열 내 원소 순서 뒤집기 </summary>
   <div>
    https://github.com/nicesugi/Algorithms/blob/b2736f4d513ac947e3b92cdfd05aecb9d5999132/Programmers/Lv.%200/reverse_%20array.py#L1-L3
   </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 문자열 뒤집기 </summary>
+  <div>
+ https://github.com/nicesugi/Algorithms/blob/ccc91200e043e2712d5d2ebb777108993ec7147a/Programmers/Lv.%200/reversed_string.py#L1-L10
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 직각삼각형 출력하기 </summary>
+  <div>
+https://github.com/nicesugi/Algorithms/blob/d7b7b87aeded6ba2e3220f99eedf8efe3dbb0ba6/Programmers/Lv.%200/print_right_triangle.py#L1-L4
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 짝수,홀수 개수 구하기 </summary>
+  <div>
+https://github.com/nicesugi/Algorithms/blob/587d3e0033edf34ea95446b312fd1c019d930335/Programmers/Lv.%200/even_odd_number.py#L1-L29
+   </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 문자열 반복 </summary>
+  <div>
+https://github.com/nicesugi/Algorithms/blob/023254b4c7989acf9522aebeba3132150dd7705c/Programmers/Lv.%200/text_repeatedly.py#L1-L6
+   </div>
 </details>
