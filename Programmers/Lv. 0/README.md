@@ -166,3 +166,59 @@ https://github.com/nicesugi/Algorithms/blob/587d3e0033edf34ea95446b312fd1c019d93
 https://github.com/nicesugi/Algorithms/blob/023254b4c7989acf9522aebeba3132150dd7705c/Programmers/Lv.%200/text_repeatedly.py#L1-L6
    </div>
 </details>
+
+<details>
+  <summary>&nbsp;&nbsp; 특정 문자 제거 </summary>
+  <div>
+ https://github.com/nicesugi/Algorithms/blob/255804efa40db63ad6916706df4f348bb81f51f7/Programmers/Lv.%200/remove_specific_characters.py#L1-L12
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 각도기 </summary>
+  <div>
+ https://github.com/nicesugi/Algorithms/blob/255804efa40db63ad6916706df4f348bb81f51f7/Programmers/Lv.%200/angle_classification.py#L1-L11
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 서비스음료를 제외한 음식값 계산하기 </summary>
+  <div>
+ https://github.com/nicesugi/Algorithms/blob/255804efa40db63ad6916706df4f348bb81f51f7/Programmers/Lv.%200/total_price.py#L1-L6
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 리스트 내 짝수의 합</summary>
+  <div>
+ https://github.com/nicesugi/Algorithms/blob/255804efa40db63ad6916706df4f348bb81f51f7/Programmers/Lv.%200/sum_of_even_numbers.py#L1-L7
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 배열 자르기 </summary>
+  <div>
+ https://github.com/nicesugi/Algorithms/blob/255804efa40db63ad6916706df4f348bb81f51f7/Programmers/Lv.%200/cut_array.py#L1-L4
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 나이를 알파벳으로 표현하기 </summary>
+  <div>
+ https://github.com/nicesugi/Algorithms/blob/255804efa40db63ad6916706df4f348bb81f51f7/Programmers/Lv.%200/int_return_alphabet.py#L1-L8
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 배열의 순서정하기 </summary>
+  <div>
+ https://github.com/nicesugi/Algorithms/blob/255804efa40db63ad6916706df4f348bb81f51f7/Programmers/Lv.%200/setting_the_order_of_array.py#L1-L12
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 순서쌍의 개수 </summary>
+  <div>
+ https://github.com/nicesugi/Algorithms/blob/255804efa40db63ad6916706df4f348bb81f51f7/Programmers/Lv.%200/number_of_ordered_pairs.py#L1-L12
+  </div>
+</details>
