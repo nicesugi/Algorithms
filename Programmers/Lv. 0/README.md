@@ -229,3 +229,17 @@ https://github.com/nicesugi/Algorithms/blob/023254b4c7989acf9522aebeba3132150dd7
 https://github.com/nicesugi/Algorithms/blob/03421352349b03ce5b3c6930423252b6cbf4229c/Programmers/Lv.%200/ant_colony.py#L1-L9
   </div>
 </details>
+
+<details>
+  <summary>&nbsp;&nbsp; 모스부호 문자로 변환 </summary>
+  <div>
+https://github.com/nicesugi/Algorithms/blob/0a29ab829f441fdf436ca45a4a06264209f96173/Programmers/Lv.%200/morse_code_decrypt.py#L1-L46
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 가위바위보 </summary>
+  <div>
+https://github.com/nicesugi/Algorithms/blob/d564bf7d9db2c718f4106e8948eb8324a6afbf22/Programmers/Lv.%200/rock_paper_scissors.py#L1-L12
+   </div>
+</details>
