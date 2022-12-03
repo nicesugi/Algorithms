@@ -243,3 +243,10 @@ https://github.com/nicesugi/Algorithms/blob/0a29ab829f441fdf436ca45a4a06264209f9
 https://github.com/nicesugi/Algorithms/blob/d564bf7d9db2c718f4106e8948eb8324a6afbf22/Programmers/Lv.%200/rock_paper_scissors.py#L1-L12
    </div>
 </details>
+
+<details>
+  <summary>&nbsp;&nbsp; 경우의 수 </summary>
+  <div>
+https://github.com/nicesugi/Algorithms/blob/bc9cd82ff98c6595fbb962f2b03d0aeae67bb45a/Programmers/Lv.%200/number_of_cases.py#L1-L12
+   </div>
+</details>
