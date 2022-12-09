@@ -250,3 +250,31 @@ https://github.com/nicesugi/Algorithms/blob/d564bf7d9db2c718f4106e8948eb8324a6af
 https://github.com/nicesugi/Algorithms/blob/bc9cd82ff98c6595fbb962f2b03d0aeae67bb45a/Programmers/Lv.%200/number_of_cases.py#L1-L12
    </div>
 </details>
+
+<details>
+  <summary>&nbsp;&nbsp; 점의 위치 구하기 </summary>
+  <div>
+  https://github.com/nicesugi/Algorithms/blob/83bf734a4f53acab716ba8162520ac0f1c7668e5/Programmers/Lv.%200/find_the_location_of_a_point.py#L1-L34
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 2차원으로 만들기 </summary>
+  <div>
+  https://github.com/nicesugi/Algorithms/blob/83bf734a4f53acab716ba8162520ac0f1c7668e5/Programmers/Lv.%200/two_dimensional.py#L1-L11
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 공 던지기 </summary>
+  <div>
+  https://github.com/nicesugi/Algorithms/blob/83bf734a4f53acab716ba8162520ac0f1c7668e5/Programmers/Lv.%200/toss_the_ball.py#L1-L10
+  </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 배열 회전시키기 </summary>
+  <div>
+  https://github.com/nicesugi/Algorithms/blob/86d8b938cb8542275b21724dbcb12e458f6e6689/Programmers/Lv.%200/rotate_the_array.py#L1-L14
+  </div>
+</details>
