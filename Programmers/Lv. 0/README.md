@@ -278,3 +278,31 @@ https://github.com/nicesugi/Algorithms/blob/bc9cd82ff98c6595fbb962f2b03d0aeae67b
   https://github.com/nicesugi/Algorithms/blob/86d8b938cb8542275b21724dbcb12e458f6e6689/Programmers/Lv.%200/rotate_the_array.py#L1-L14
   </div>
 </details>
+
+<details>
+  <summary>&nbsp;&nbsp; 주사위의 개수 </summary>
+  <div>
+  https://github.com/nicesugi/Algorithms/blob/195dac9873086e142b950d9feb044a474f177d2a/Programmers/Lv.%200/number_of_dice.py#L1-L19
+ </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 합성수 찾기 </summary>
+  <div>
+  https://github.com/nicesugi/Algorithms/blob/195dac9873086e142b950d9feb044a474f177d2a/Programmers/Lv.%200/find_composite_numbers.py#L1-L20
+ </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 최댓값 만들기 </summary>
+  <div>
+  https://github.com/nicesugi/Algorithms/blob/195dac9873086e142b950d9feb044a474f177d2a/Programmers/Lv.%200/create_max.py#L1-L5
+ </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 팩토리얼 </summary>
+  <div>
+  https://github.com/nicesugi/Algorithms/blob/195dac9873086e142b950d9feb044a474f177d2a/Programmers/Lv.%200/factorial.py#L1-L20
+ </div>
+</details>
