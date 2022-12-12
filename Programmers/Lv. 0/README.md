@@ -306,3 +306,24 @@ https://github.com/nicesugi/Algorithms/blob/bc9cd82ff98c6595fbb962f2b03d0aeae67b
   https://github.com/nicesugi/Algorithms/blob/195dac9873086e142b950d9feb044a474f177d2a/Programmers/Lv.%200/factorial.py#L1-L20
  </div>
 </details>
+
+<details>
+  <summary>&nbsp;&nbsp; 문자열 내 모음제거 </summary>
+  <div>
+https://github.com/nicesugi/Algorithms/blob/f67c310f62ce0c0d66f036bc2122f78d4d0d9c56/Programmers/Lv.%200/vowel_removal.py#L1-L4
+ </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 문자열 내 숫자 찾아서 정렬하기 </summary>
+  <div>
+   https://github.com/nicesugi/Algorithms/blob/f67c310f62ce0c0d66f036bc2122f78d4d0d9c56/Programmers/Lv.%200/sorting_strings_1.py#L1-L8
+ </div>
+</details>
+
+<details>
+  <summary>&nbsp;&nbsp; 문자열 내 숫자 찾아서 합 구하기 </summary>
+  <div>
+   https://github.com/nicesugi/Algorithms/blob/f67c310f62ce0c0d66f036bc2122f78d4d0d9c56/Programmers/Lv.%200/addition_of_nums_in_str_array_1.py#L1-L8
+ </div>
+</details>
